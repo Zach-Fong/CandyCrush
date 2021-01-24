@@ -1,0 +1,11 @@
+.grid{
+    height: 640px;
+    width: 640px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid div{
+    height: 80px;
+    width: 80px;
+}
